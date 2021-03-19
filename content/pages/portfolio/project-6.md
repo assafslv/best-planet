@@ -31,7 +31,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-photography-magazine-3.jpg
+    image: images/Screen Shot 2021-03-12 at 3.58.35 PM.png
     image_alt: Subtle 3
     width: wide
   - type: text_section
