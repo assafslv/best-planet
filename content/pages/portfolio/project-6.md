@@ -2,7 +2,7 @@
 title: Lyft Public Transit
 subtitle: A complete redesign
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: images/Screen Shot 2021-03-12 at 3.58.35 PM.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
