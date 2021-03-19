@@ -15,7 +15,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Here it is
-    subtitle: Explore case studies
+    subtitle: Nothing to add here.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
