@@ -6,7 +6,7 @@ thumb_image: images/Screen Shot 2021-03-12 at 3.58.35 PM.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/work-photography-magazine-1.jpg
+    image: images/about.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
