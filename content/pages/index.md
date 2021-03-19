@@ -8,9 +8,9 @@ sections:
       Currently designing a new XP @stackbit. Previously worked @ Lyft, IDEO,
       taught at CCA, and a few other places before that.
     content: >
-      I've worked on some big brand in mobility, education, media & software.
+      I've worked on some big brands in mobility, education, media & software.
       Anyway, I hope we'll get to work together one day, I'm fun, and pretty
-      good at what I do. 
+      good at what I do.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
