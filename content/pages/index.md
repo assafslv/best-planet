@@ -7,10 +7,10 @@ sections:
     title: >-
       Currently designing a new XP @stackbit. Previously worked @ Lyft, IDEO,
       taught at CCA, and a few other places before that.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      I've worked on some big brand in mobility, education, media & software.
+      Anyway, I hope we'll get to work together one day, I'm fun, and pretty
+      good at what I do. 
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
