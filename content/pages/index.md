@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: title
-    title: >-
-      Currently designing a new XP @stackbit. Previously worked @ Lyft, IDEO,
-      taught at CCA, and a few other places before that.
+    title: 'SOmething '
     content: >
       I've worked on some big brands in mobility, education, media & software.
       Anyway, I hope we'll get to work together one day, I'm fun, and pretty
