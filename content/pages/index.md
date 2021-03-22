@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: title
-    title: 'SOmething '
+    title: SOmething something
     content: >
       I've worked on some big brands in mobility, education, media & software.
       Anyway, I hope we'll get to work together one day, I'm fun, and pretty
