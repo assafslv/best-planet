@@ -13,7 +13,7 @@ sections:
       good at what I do.
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Here it is
     subtitle: Nothing to add here.
     projects_number: 6
