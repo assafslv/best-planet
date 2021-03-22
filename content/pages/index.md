@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    section_id: hero
+    section_id: title
     title: >-
       Currently designing a new XP @stackbit. Previously worked @ Lyft, IDEO,
       taught at CCA, and a few other places before that.
