@@ -369,11 +369,8 @@ models:
         label: Sections
         description: Project sections
         items:
-          type: model
-          labelField: title
-          models:
-            - image_section
-            - text_section
+          type: object
+          fields: []
       - type: model
         name: seo
         models:
