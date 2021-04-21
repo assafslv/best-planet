@@ -274,6 +274,10 @@ models:
         description: The title of the page
         required: true
       - type: string
+        name: image_alt
+        label: Image alt text
+        description: The alt text of the image
+      - type: string
         name: subtitle
         label: Subtitle
         description: The text shown just below the page title
@@ -281,10 +285,6 @@ models:
         name: image
         label: Image
         description: The image shown below the page title and subtitle
-      - type: string
-        name: image_alt
-        label: Image alt text
-        description: The alt text of the image
       - type: model
         name: seo
         models:
@@ -907,3 +907,4 @@ models:
     fields:
       - name: ''
         type: string
+        label: ''
