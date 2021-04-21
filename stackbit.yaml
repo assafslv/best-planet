@@ -901,3 +901,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  assafmodelx:
+    type: data
+    label: assafmodelx
