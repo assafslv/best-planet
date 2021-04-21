@@ -904,3 +904,6 @@ models:
   assafmodelx:
     type: data
     label: assafmodelx
+    fields:
+      - name: ''
+        type: string
