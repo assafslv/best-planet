@@ -189,8 +189,7 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: reference
-        models: []
+        type: string
     folder: ''
   blog:
     type: page
