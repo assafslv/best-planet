@@ -78,10 +78,7 @@ sections:
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
+    actions: []
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
