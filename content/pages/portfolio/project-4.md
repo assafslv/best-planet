@@ -5,11 +5,6 @@ date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
-  - type: image_section
-    image: images/work-book-1.jpg
-    image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
@@ -20,6 +15,11 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
+  - type: image_section
+    image: images/work-book-1.jpg
+    image_alt: Nature Mockup Magazine 1
+    caption: This is the caption of the image
+    width: wide
   - type: image_section
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
